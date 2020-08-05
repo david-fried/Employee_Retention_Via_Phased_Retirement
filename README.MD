@@ -8,7 +8,7 @@ I hypothesized that workers with stronger commitment to their jobs, organization
 ## Results
 Results generally supported my hypotheses. For example, after controlling for age, health, and financial comfort, a hierarchical regression analysis revealed that work role attachment variables collectively explained an additional 10% of the variation in preferences to extend careers through phased retirement, &Delta;*F*(5, 142) = 3.34, p < .01, &Delta;*R_Squared* = .10.
 
-This research supports the idea that phased retirement may be used as a tool to retain dedicated workers when they are no longer willing or able to continue working full-time.
+This result supports the idea that phased retirement may be used as a tool to retain dedicated workers when they are no longer willing or able to continue working full-time.
 
 ![Correlations (Table 1)](Images/Correlations_Table1.PNG)
 
