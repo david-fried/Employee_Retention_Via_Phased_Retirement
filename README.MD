@@ -6,7 +6,7 @@ Phased retirement occurs when a worker transitions from full-time to part-time e
 I hypothesized that workers with stronger commitment to their jobs, organization, and career would be more likely to continue working past their planned retirement age in a phased retirement program. I collected data from 151 Ohio University employees via online survey. Data was analyzed with SPSS and Excel. Analyses included correlation,hierarchical regression analyses, Williams t tests, and a post-hoc statistical power analysis.
 
 ## Results
-Results generally supported my hypotheses. For example, after controlling for age, health, and financial comfort, a hierarchical regression analysis revealed that work role attachment variables collectively explained an additional 10% of the variation in preferences to extend employment through phased retirement, \delta F(5, 142) = 3.34, p < .01, \delta R_Squared = .10.
+Results generally supported my hypotheses. For example, after controlling for age, health, and financial comfort, a hierarchical regression analysis revealed that work role attachment variables collectively explained an additional 10% of the variation in preferences to extend employment through phased retirement, &Delta;F(5, 142) = 3.34, p < .01, &Delta;R_Squared = .10.
 
 This research supports the idea that phased retirement may be used as a tool to retain dedicated workers when they are no longer willing or able to continue working full-time.
 
