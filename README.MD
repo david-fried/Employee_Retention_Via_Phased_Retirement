@@ -1,4 +1,4 @@
-# Phased Retirement can be used to Retain Valued Employees
+# Phased Retirement Can Be Used to Retain Valued Employees
 
 ## Introduction
 Phased retirement occurs when a worker transitions from full-time to part-time employment for an organization before completely and permanently retiring from the workforce. Phased retirement carries benefits for the individual worker, as well as the organization. For the employee, phased retirement allows the worker to gradually gain familiarity with the retirement lifestyle while maintaining desirable work contacts, daily structure, and professional status associated with a long-term career job. For the employer, phased retirement may assist with succession planning and help prevent skill shortages and the loss of institutional knowledge by allowing employees to continue working part-time when they no longer wish to work full-time.
